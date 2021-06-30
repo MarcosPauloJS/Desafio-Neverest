@@ -12,6 +12,14 @@
 * styled components
 
 ####Design criado utilizando o figma e photopea: 
+### seleção de tipo de usuario:
+![GitHub Logo](/desafio nerverest design 3.png)
+
+### visão do contribuidor:
+![GitHub Logo](/desafio nerverest design 1.png)
+
+### visão do adiministrador:
+![GitHub Logo](/desafio nerverest design 2.png)
 
 Processo para inicialização do projeto:
 
