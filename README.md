@@ -4,14 +4,14 @@
 
 #### Resumo do desafio: Criar um rank de players usado react e boas praticas.
 
-####Tecnologias utilizadas no projeto:
+#### Tecnologias utilizadas no projeto:
 
 * React
 * next
 * AG Grid (Community version)
 * styled components
 
-####Design criado utilizando o figma e photopea: 
+#### Design criado utilizando o figma e photopea: 
 ### seleção de tipo de usuário:
 ![alt usuário](https://raw.githubusercontent.com/MarcosPauloJS/Desafio-Neverest/main/desafio%20nerverest%20design%203.png)
 
