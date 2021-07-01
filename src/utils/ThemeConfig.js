@@ -4,7 +4,8 @@ import BGPattern from '../../public/img/bg_pattern.jpg'
 const colors = {
   body: '#111111',
   text: '#FFFFFF',
-  primaryColor: 'EB3547',
+  primaryColor: '#EB3547',
+  contrastColor: '#9f2632',
   toggleBorder: '#FFF',
   background: '#363537',
 }
@@ -26,6 +27,13 @@ export const CustomTheme = {
 }
 
 export const GlobalStyles = createGlobalStyle`
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Teko', Roboto, sans-serif;
+  }
+
   body {
     background-image: url(${BGPattern.src});
     background-size: cover;
@@ -36,7 +44,7 @@ export const GlobalStyles = createGlobalStyle`
     
     &:after {
       content: "";
-      position: absolute;
+      position: fixed;
       top:0;
       left: 0;
       width: 100vw;
