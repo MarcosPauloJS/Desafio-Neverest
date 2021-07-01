@@ -32,12 +32,12 @@ export default function Enter() {
 
         <div style={{display: 'flex', flexDirection: 'column', width: 250, margin: 'auto'}}>
           <Button onClick={()=> redirect('/home')}>
-            Acessar HUB
+            Atleta
           </Button>
           <br />
 
           <Button onClick={()=> redirect('/adm')}>
-            Acessar HUB
+            Acessar como adiministrador
           </Button>
         </div>
       </WrapperSite>
