@@ -23,4 +23,6 @@
 
 Processo para inicialização do projeto:
 
-1.
+1. clone o projeto
+2. execute o comando "yarn install" para instalar as dependências
+3. execute o comando "yarn run dev" ou "yarn run start" para iniciar o projeto
