@@ -15,7 +15,7 @@ function Grid({isAdmin}) {
           <AgGridReact
               rowData={rowData}>
               <AgGridColumn field="Posição"></AgGridColumn>
-              <AgGridColumn field="nome" editable={tr}></AgGridColumn>
+              <AgGridColumn field="nome"></AgGridColumn>
               <AgGridColumn field="Time"></AgGridColumn>
               <AgGridColumn field="Mapas Jogados"></AgGridColumn>
               <AgGridColumn field="Kills"></AgGridColumn>
